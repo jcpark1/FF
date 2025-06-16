@@ -7,3 +7,13 @@ D:\Mygit\FC\FC\obj\Debug\FC.csproj.GenerateResource.cache
 D:\Mygit\FC\FC\obj\Debug\FC.csproj.CoreCompileInputs.cache
 D:\Mygit\FC\FC\obj\Debug\FC.exe
 D:\Mygit\FC\FC\obj\Debug\FC.pdb
+D:\git2\FC\bin\Debug\FC.exe.config
+D:\git2\FC\bin\Debug\FC.exe
+D:\git2\FC\bin\Debug\FC.pdb
+D:\git2\FC\obj\Debug\FC.csproj.AssemblyReference.cache
+D:\git2\FC\obj\Debug\FC.Form1.resources
+D:\git2\FC\obj\Debug\FC.Properties.Resources.resources
+D:\git2\FC\obj\Debug\FC.csproj.GenerateResource.cache
+D:\git2\FC\obj\Debug\FC.csproj.CoreCompileInputs.cache
+D:\git2\FC\obj\Debug\FC.exe
+D:\git2\FC\obj\Debug\FC.pdb
