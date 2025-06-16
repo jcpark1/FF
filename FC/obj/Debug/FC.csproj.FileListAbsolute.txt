@@ -1,0 +1,9 @@
+D:\Mygit\FC\FC\bin\Debug\FC.exe.config
+D:\Mygit\FC\FC\bin\Debug\FC.exe
+D:\Mygit\FC\FC\bin\Debug\FC.pdb
+D:\Mygit\FC\FC\obj\Debug\FC.csprojAssemblyReference.cache
+D:\Mygit\FC\FC\obj\Debug\FC.Properties.Resources.resources
+D:\Mygit\FC\FC\obj\Debug\FC.csproj.GenerateResource.cache
+D:\Mygit\FC\FC\obj\Debug\FC.csproj.CoreCompileInputs.cache
+D:\Mygit\FC\FC\obj\Debug\FC.exe
+D:\Mygit\FC\FC\obj\Debug\FC.pdb
